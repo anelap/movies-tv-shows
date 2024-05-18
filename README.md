@@ -1,4 +1,4 @@
-# tv-shows
+# movies-tv-shows
 
 1. Install dependencies
 
